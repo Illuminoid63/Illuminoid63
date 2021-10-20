@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kai
 - 👀 I’m interested in programming (this is Github after all)
 - 🌱 I’m currently learning about operating systems
-- 💞️ I’m currently working on my thesis for Carthage College
+- 💞️ I’m currently working on my thesis for Carthage College (check out my safety-timer-app if you want to look at it!)
 - 📫 How to reach me kai.m.kuebler@gmail.com
 
 <!---
